@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Rauhauser/WD-FINALS">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="/assets/img/LOGO.png" alt="Nyebe" width="100" height="100">
   </a>
