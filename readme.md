@@ -57,13 +57,8 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+This project is the culmination of my cultivated skills in programming and web design, reflecting my ability to create sophisticated, engaging, and visually appealing web pages. It features a meticulously crafted landing page, followed by several subsequent pages, each showcasing unique designs and functionalities. Through this website, I aim to demonstrate my versatility and creativity in web development, utilizing modern technologies to enhance the user experience.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
